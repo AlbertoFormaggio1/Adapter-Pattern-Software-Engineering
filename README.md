@@ -23,7 +23,7 @@ Documentation is vital to understand what test cases have been covered and what 
   The name of the file is eself-explanatory:
     - ```Test Results - <className>Tester.html``` tests only a specific class
     - ```Test Results - TestSuite<Target>.html``` tests all the classes related to the target interface (either List or Map)
-* ```doc```: contains the Javadoc documentation of this project. Open the ```index.html``` file to have a gerarchic view of all the classes implemented. Custom tags have been defined to have a clearer documentation.
+* ```doc```: contains the Javadoc documentation of this project. Open the ```index.html``` file to have a gerarchic view of all the classes implemented. Custom tags have been defined for clearness purposes.
 * ```myAdapter```: contains the .java files that realize the 2 adapters
 * ```myTest```: contains the .java files used for testing the features
 
